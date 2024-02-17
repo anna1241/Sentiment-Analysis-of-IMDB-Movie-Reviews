@@ -19,8 +19,10 @@ reviews accompanied by sentiment labels (positive, negative, neutral) for traini
 
 Our methodology involves employing NLP techniques and sentiment analysis models for movie 
 review sentiment categorization:
+
 • Text Preprocessing: Cleaning, tokenization, and normalization of text data, including 
 removal of stopwords and text vectorization for analysis.
+
 • Sentiment Classification Models: Implementation of machine learning algorithms 
 such as Naive Bayes, or recurrent neural networks (RNNs) for sentiment classification.
 
